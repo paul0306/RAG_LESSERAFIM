@@ -75,13 +75,13 @@ python app.py
 ---
 
 ## 📂 專案結構
-
+```
 .
 ├── app.py
 ├── rag_system.py
-├── requirements.txt
 ├── .env
-├── data/               # 維基百科資料
+├── data/
     ├── chaewon.json
     ├── eunchae.json
     └── ...
+```

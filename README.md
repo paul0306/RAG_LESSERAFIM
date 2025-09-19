@@ -47,10 +47,8 @@ cd lesserafim-linebot
 
 ### 2. 建立虛擬環境並安裝套件
 ```bash
-python -m venv venv
-source venv/bin/activate   # Mac / Linux
-venv\Scripts\activate      # Windows
-
+conda create --name rag_lesserafim python==3.10
+conda activate rag_lesserafim
 pip install -r requirements.txt
 ```
 

@@ -7,7 +7,7 @@
 
 ## ✨ 功能特色
 - 🤖 LINE Bot 即時回覆使用者訊息  
-- 📚 自動從維基百科抓取團體與成員資料  
+- 📚 使用 BeautifulSoup 從維基百科抓取團體與成員資料  
 - 🔎 使用 **SentenceTransformers + FAISS** 建立向量資料庫  
 - 🧠 透過 **RAG 技術**讓 Gemini API 產生更準確的回答  
 - 🌐 支援關鍵字模糊匹配（rapidfuzz），可辨識暱稱、別稱  

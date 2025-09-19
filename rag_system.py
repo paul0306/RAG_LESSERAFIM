@@ -41,12 +41,12 @@ def parse_wiki_content(title, lang="zh"):
 
 # ========= STEP 3: 本地 JSON =========
 file_map = {
-    "團體": "LE SSERAFIM.json",
-    "金采源": "金采源.json",
-    "宮脇咲良": "宮脇咲良.json",
-    "許允真": "許允真.json",
-    "中村一葉": "中村一葉.json",
-    "洪恩採": "洪恩採.json",
+    "團體": "lesserafim.json",
+    "金采源": "chaewon.json",
+    "宮脇咲良": "sakura.json",
+    "許允真": "yunjin.json",
+    "中村一葉": "kazuha.json",
+    "洪恩採": "eunchae.json",
 }
 
 keywords = {

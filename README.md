@@ -71,3 +71,17 @@ python app.py
 - 將程式碼推到 GitHub
 - 部署至雲端平台，設定環境變數
 - 在 LINE Developers 後台設定 Webhook URL
+
+---
+
+## 📂 專案結構
+
+.
+├── app.py
+├── rag_system.py
+├── requirements.txt
+├── .env
+├── data/               # 維基百科資料
+    ├── chaewon.json
+    ├── eunchae.json
+    └── ...
